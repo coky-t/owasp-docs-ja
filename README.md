@@ -25,4 +25,5 @@
 
 ## その他
 
+* DevSecOps ガイドライン [github](https://github.com/coky-t/owasp-devsecops-guideline-ja)
 * ソフトウェアコンポーネント検証標準 [gitbook](https://coky-t.gitbook.io/owasp-scvs-ja/), [github](https://github.com/coky-t/owasp-scvs-ja/)
