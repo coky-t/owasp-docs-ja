@@ -5,6 +5,10 @@
 * アプリケーションセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-asvs-ja/), [github](https://github.com/coky-t/owasp-asvs-ja/)
 * セキュリティ定性メトリクス [gitbook](https://coky-t.gitbook.io/owasp-sqm-ja/), [github](https://github.com/coky-t/owasp-sqm-ja/)
 
+## クラウド
+
+* クラウドネイティブアプリケーションセキュリティ Top 10 [github](https://github.com/coky-t/owasp-cloud-native-application-security-top-10-ja)
+
 ## コンテナ
 
 * Docker Top 10 [github](https://github.com/coky-t/owasp-docker-security-ja/)
