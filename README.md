@@ -14,6 +14,10 @@
 * Docker Top 10 [github](https://github.com/coky-t/owasp-docker-security-ja/)
 * コンテナセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-csvs-ja/), [github](https://github.com/coky-t/owasp-csvs-ja/)
 
+## デスクトップ
+
+* デスクトップアプリセキュリティ Top 10 [github](https://github.com/coky-t/owasp-desktop-app-security-top-10-ja)
+
 ## モバイル
 
 * モバイル Top 10 2016 [github](https://github.com/coky-t/owasp-mobile-top10-2016-ja)
