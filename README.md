@@ -31,6 +31,10 @@
 * ファームウェアセキュリティテスト手法 [gitbook](https://coky-t.gitbook.io/owasp-fstm-ja/), [github](https://github.com/coky-t/owasp-fstm-ja/)
 * 組込みアプリケーションセキュリティベストプラクティス [gitbook](https://coky-t.gitbook.io/embeddedappsec-ja/), [github](https://github.com/coky-t/embeddedappsec-ja/)
 
+## ローコード/ノーコード
+
+* Top 10 ローコード/ノーコードセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-low-code-no-code-security-risks-ja/)
+
 ## その他
 
 * DevSecOps ガイドライン [github](https://github.com/coky-t/owasp-devsecops-guideline-ja)
