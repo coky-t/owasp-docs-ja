@@ -13,7 +13,8 @@
 ### OWASP ASVS
 
 * [OWASPアプリケーションセキュリティ検証標準 3.0.1 - JPCERT翻訳版](https://www.jpcert.or.jp/securecoding/materials-owaspasvs.html)
-* [OWASPアプリケーションセキュリティ検証標準 4.0.1 - Software ISAC翻訳版](https://www.saj.or.jp/NEWS/pr/200903_asvs.html)
+* [OWASPアプリケーションセキュリティ検証標準 4.0.1 - Software ISAC 邦訳版 (SAJ サイト)](https://www.saj.or.jp/NEWS/pr/200903_asvs.html)
+* [OWASPアプリケーションセキュリティ検証標準 4.0.1 - Software ISAC 邦訳版 (Software ISAC サイト)](https://www.softwareisac.jp/ipa/index.php?OWASP+ASVS+4.0)
 * [OWASPアプリケーションセキュリティ検証標準 4.0.x 邦訳版](https://github.com/owasp-ja/asvs-ja)
 
 * [OWASP ASVS 4.0 V2.4 からパスワードの保存を考える](https://qiita.com/koujimatsuda11/items/1f7909ea8b626554f556)
