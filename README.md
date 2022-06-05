@@ -7,20 +7,21 @@
 
 ## クラウド
 
-* クラウドネイティブアプリケーションセキュリティ Top 10 [github](https://github.com/coky-t/owasp-cloud-native-application-security-top-10-ja)
+* クラウドネイティブアプリケーションセキュリティ Top 10 [github](https://github.com/coky-t/owasp-cloud-native-application-security-top-10-ja/)
 
 ## コンテナ
 
 * Docker Top 10 [github](https://github.com/coky-t/owasp-docker-security-ja/)
 * コンテナセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-csvs-ja/), [github](https://github.com/coky-t/owasp-csvs-ja/)
+* Kubernetes Top 10 [github](https://github.com/coky-t/owasp-kubernetes-top-ten-ja/)
 
 ## デスクトップ
 
-* デスクトップアプリセキュリティ Top 10 [github](https://github.com/coky-t/owasp-desktop-app-security-top-10-ja)
+* デスクトップアプリセキュリティ Top 10 [github](https://github.com/coky-t/owasp-desktop-app-security-top-10-ja/)
 
 ## モバイル
 
-* モバイル Top 10 2016 [github](https://github.com/coky-t/owasp-mobile-top10-2016-ja)
+* モバイル Top 10 2016 [github](https://github.com/coky-t/owasp-mobile-top10-2016-ja/)
 * モバイルアプリケーションセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-masvs-ja/), [github](https://github.com/coky-t/owasp-masvs-ja/)
 * モバイルセキュリティテストガイド [gitbook](https://coky-t.gitbook.io/owasp-mstg-ja/), [github](https://github.com/coky-t/owasp-mstg-ja/)
 
@@ -37,8 +38,8 @@
 
 ## その他
 
-* DevSecOps ガイドライン [github](https://github.com/coky-t/owasp-devsecops-guideline-ja)
+* DevSecOps ガイドライン [github](https://github.com/coky-t/owasp-devsecops-guideline-ja/)
 * ソフトウェアコンポーネント検証標準 [gitbook](https://coky-t.gitbook.io/owasp-scvs-ja/), [github](https://github.com/coky-t/owasp-scvs-ja/)
-* 脅威とセーフガードのマトリクス (TaSM) [github](https://github.com/coky-t/owasp-threat-and-safeguard-matrix-ja)
-* サイバーコントロールマトリクス (OCCM) [github](https://github.com/coky-t/owasp-cyber-controls-matrix-ja)
-* サイバーディフェンスマトリクス [github](https://github.com/coky-t/owasp-cyber-defense-matrix-ja)
+* 脅威とセーフガードのマトリクス (TaSM) [github](https://github.com/coky-t/owasp-threat-and-safeguard-matrix-ja/)
+* サイバーコントロールマトリクス (OCCM) [github](https://github.com/coky-t/owasp-cyber-controls-matrix-ja/)
+* サイバーディフェンスマトリクス [github](https://github.com/coky-t/owasp-cyber-defense-matrix-ja/)
