@@ -36,6 +36,10 @@
 
 * Top 10 ローコード/ノーコードセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-low-code-no-code-security-risks-ja/)
 
+## クライアントサイド
+
+* Top 10 クライアントサイドセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-client-side-security-risks-ja/)
+
 ## その他
 
 * DevSecOps ガイドライン [github](https://github.com/coky-t/owasp-devsecops-guideline-ja/)
