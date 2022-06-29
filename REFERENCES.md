@@ -5,6 +5,7 @@
 ### OWASP Top Ten
 
 * [OWASP Top 10 - 2017 日本語版](https://github.com/owasp-ja/Top10/blob/master/2017/ja/OWASP%20Top%2010-2017(ja).pdf)
+* [OWASP Top 10 - 2021 日本語版](https://owasp.org/Top10/ja/)
 
 ### OWASP Proactive Controls
 
