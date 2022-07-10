@@ -40,9 +40,13 @@
 
 * Top 10 クライアントサイドセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-client-side-security-risks-ja/)
 
-## その他
+## DevSecOps
 
 * DevSecOps ガイドライン [github](https://github.com/coky-t/owasp-devsecops-guideline-ja/)
+* DevSecOps 検証標準 [github](https://github.com/coky-t/owasp-devsecops-verification-standard-ja/)
+
+## その他
+
 * ソフトウェアコンポーネント検証標準 [gitbook](https://coky-t.gitbook.io/owasp-scvs-ja/), [github](https://github.com/coky-t/owasp-scvs-ja/)
 * 脅威とセーフガードのマトリクス (TaSM) [github](https://github.com/coky-t/owasp-threat-and-safeguard-matrix-ja/)
 * サイバーコントロールマトリクス (OCCM) [github](https://github.com/coky-t/owasp-cyber-controls-matrix-ja/)
