@@ -51,3 +51,4 @@
 * 脅威とセーフガードのマトリクス (TaSM) [github](https://github.com/coky-t/owasp-threat-and-safeguard-matrix-ja/)
 * サイバーコントロールマトリクス (OCCM) [github](https://github.com/coky-t/owasp-cyber-controls-matrix-ja/)
 * サイバーディフェンスマトリクス [github](https://github.com/coky-t/owasp-cyber-defense-matrix-ja/)
+* 脅威モデリングプレイブック [github](https://github.com/coky-t/owasp-threat-modeling-playbook-ja/)
