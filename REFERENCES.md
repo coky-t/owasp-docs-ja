@@ -34,6 +34,10 @@
 
 * [OWASP 蛇とはしご ウェブアプリケーション](https://github.com/OWASP/www-project-snakes-and-ladders/blob/master/assets/files/web/JA/OWASP-SnakesAndLadders-WebApplications-JA-1v02.pdf)
 
+### OWASP Secure Coding Practices-Quick Reference Guide
+
+* [OWASP セキュアコーディングプラクティス – クイックリファレンスガイド](https://blog.ohgaki.net/owasp-secure-coding-practices-quick-reference-guide)
+
 ## API
 
 ### OWASP API Security Project
