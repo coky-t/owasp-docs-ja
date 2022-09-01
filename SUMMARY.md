@@ -12,7 +12,7 @@
 ## モバイル
 
 * [モバイルアプリケーションセキュリティ検証標準](https://coky-t.gitbook.io/owasp-masvs-ja/)
-* [モバイルセキュリティテストガイド](https://coky-t.gitbook.io/owasp-mstg-ja/)
+* [モバイルアプリケーションセキュリティテストガイド](https://coky-t.gitbook.io/owasp-mastg-ja/)
 
 ## 組み込み/IoT
 
