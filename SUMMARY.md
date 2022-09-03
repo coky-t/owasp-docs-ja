@@ -4,6 +4,7 @@
 
 * [アプリケーションセキュリティ検証標準](https://coky-t.gitbook.io/owasp-asvs-ja/)
 * [セキュリティ定性メトリクス](https://coky-t.gitbook.io/owasp-sqm-ja/)
+* [ウェブアプリケーションに対する自動化された脅威](https://coky-t.gitbook.io/owasp-automated-threats-to-web-applications-ja/)
 
 ## コンテナ
 
