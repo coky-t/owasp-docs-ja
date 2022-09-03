@@ -39,7 +39,7 @@
 
 ## クライアントサイド
 
-* Top 10 クライアントサイドセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-client-side-security-risks-ja/)
+* Top 10 クライアントサイドセキュリティリスク [gitbook](https://coky-t.gitbook.io/owasp-top-10-client-side-security-risks-ja/), [github](https://github.com/coky-t/owasp-top-10-client-side-security-risks-ja/)
 
 ## DevSecOps
 
