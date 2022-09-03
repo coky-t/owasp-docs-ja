@@ -48,4 +48,5 @@
 ## その他
 
 * [ソフトウェアコンポーネント検証標準](https://coky-t.gitbook.io/owasp-scvs-ja/)
+* [脅威とセーフガードのマトリクス (TaSM)](https://coky-t.gitbook.io/owasp-threat-and-safeguard-matrix-ja/)
 * [脅威モデリングプレイブック](https://coky-t.gitbook.io/owasp-threat-modeling-playbook-ja/)

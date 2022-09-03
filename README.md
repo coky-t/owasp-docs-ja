@@ -49,7 +49,7 @@
 ## その他
 
 * ソフトウェアコンポーネント検証標準 [gitbook](https://coky-t.gitbook.io/owasp-scvs-ja/), [github](https://github.com/coky-t/owasp-scvs-ja/)
-* 脅威とセーフガードのマトリクス (TaSM) [github](https://github.com/coky-t/owasp-threat-and-safeguard-matrix-ja/)
+* 脅威とセーフガードのマトリクス (TaSM) [gitbook](https://coky-t.gitbook.io/owasp-threat-and-safeguard-matrix-ja/), [github](https://github.com/coky-t/owasp-threat-and-safeguard-matrix-ja/)
 * サイバーコントロールマトリクス (OCCM) [github](https://github.com/coky-t/owasp-cyber-controls-matrix-ja/)
 * サイバーディフェンスマトリクス [github](https://github.com/coky-t/owasp-cyber-defense-matrix-ja/)
 * 脅威モデリングプレイブック [gitbook](https://coky-t.gitbook.io/owasp-threat-modeling-playbook-ja/), [github](https://github.com/coky-t/owasp-threat-modeling-playbook-ja/)
