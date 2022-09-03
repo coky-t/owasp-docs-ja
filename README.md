@@ -8,7 +8,7 @@
 
 ## クラウド
 
-* クラウドネイティブアプリケーションセキュリティ Top 10 [github](https://github.com/coky-t/owasp-cloud-native-application-security-top-10-ja/)
+* クラウドネイティブアプリケーションセキュリティ Top 10 [gitbook](https://coky-t.gitbook.io/owasp-cloud-native-application-security-top-10-ja/), [github](https://github.com/coky-t/owasp-cloud-native-application-security-top-10-ja/)
 
 ## コンテナ
 
