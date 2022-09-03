@@ -18,7 +18,7 @@
 
 ## デスクトップ
 
-* デスクトップアプリセキュリティ Top 10 [github](https://github.com/coky-t/owasp-desktop-app-security-top-10-ja/)
+* デスクトップアプリセキュリティ Top 10 [gitbook](https://coky-t.gitbook.io/owasp-desktop-app-security-top-10-ja/), [github](https://github.com/coky-t/owasp-desktop-app-security-top-10-ja/)
 
 ## モバイル
 

@@ -16,6 +16,10 @@
 * [コンテナセキュリティ検証標準](https://coky-t.gitbook.io/owasp-csvs-ja/)
 * [Kubernetes Top 10](https://coky-t.gitbook.io/owasp-kubernetes-top-ten-ja/)
 
+## デスクトップ
+
+* [デスクトップアプリセキュリティ Top 10](https://coky-t.gitbook.io/owasp-desktop-app-security-top-10-ja/)
+
 ## モバイル
 
 * [モバイルアプリケーションセキュリティ検証標準](https://coky-t.gitbook.io/owasp-masvs-ja/)
