@@ -12,7 +12,7 @@
 
 ## コンテナ
 
-* Docker Top 10 [github](https://github.com/coky-t/owasp-docker-security-ja/)
+* Docker Top 10 [gitbook](https://coky-t.gitbook.io/owasp-docker-security-ja/), [github](https://github.com/coky-t/owasp-docker-security-ja/)
 * コンテナセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-csvs-ja/), [github](https://github.com/coky-t/owasp-csvs-ja/)
 * Kubernetes Top 10 [github](https://github.com/coky-t/owasp-kubernetes-top-ten-ja/)
 
