@@ -33,6 +33,10 @@
 * [ファームウェアセキュリティテスト手法](https://coky-t.gitbook.io/owasp-fstm-ja/)
 * [組込みアプリケーションセキュリティベストプラクティス](https://coky-t.gitbook.io/embeddedappsec-ja/)
 
+## ローコード/ノーコード
+
+* [Top 10 ローコード/ノーコードセキュリティリスク](https://coky-t.gitbook.io/owasp-top-10-low-code-no-code-security-risks-ja/)
+
 ## その他
 
 * [ソフトウェアコンポーネント検証標準](https://coky-t.gitbook.io/owasp-scvs-ja/)
