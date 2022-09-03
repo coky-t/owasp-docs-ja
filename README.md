@@ -43,7 +43,7 @@
 
 ## DevSecOps
 
-* DevSecOps ガイドライン [github](https://github.com/coky-t/owasp-devsecops-guideline-ja/)
+* DevSecOps ガイドライン [gitbook](https://coky-t.gitbook.io/owasp-devsecops-guideline-ja/), [github](https://github.com/coky-t/owasp-devsecops-guideline-ja/)
 * DevSecOps 検証標準 [github](https://github.com/coky-t/owasp-devsecops-verification-standard-ja/)
 
 ## その他
