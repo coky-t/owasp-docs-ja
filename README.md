@@ -46,6 +46,10 @@
 * DevSecOps ガイドライン [gitbook](https://coky-t.gitbook.io/owasp-devsecops-guideline-ja/), [github](https://github.com/coky-t/owasp-devsecops-guideline-ja/)
 * DevSecOps 検証標準 [github](https://github.com/coky-t/owasp-devsecops-verification-standard-ja/)
 
+## CI/CD
+
+* Top 10 CI/CD セキュリティリスク [gitbook](https://coky-t.gitbook.io/owasp-top-10-ci-cd-security-risks-ja/), [github](https://github.com/coky-t/owasp-top-10-ci-cd-security-risks-ja/)
+
 ## その他
 
 * ソフトウェアコンポーネント検証標準 [gitbook](https://coky-t.gitbook.io/owasp-scvs-ja/), [github](https://github.com/coky-t/owasp-scvs-ja/)
