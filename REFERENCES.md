@@ -36,7 +36,11 @@
 
 ### OWASP Secure Coding Practices-Quick Reference Guide
 
-* [OWASP セキュアコーディングプラクティス – クイックリファレンスガイド](https://blog.ohgaki.net/owasp-secure-coding-practices-quick-reference-guide)
+* [OWASP セキュアコーディングプラクティス – クイックリファレンスガイド 日本語訳 - 大垣 靖男 翻訳版](https://blog.ohgaki.net/owasp-secure-coding-practices-quick-reference-guide)
+
+### Go Language - Web Application Secure Coding Practices
+
+* [Go Language - Web Application Secure Coding Practices 日本語訳 - テックタッチ（株）翻訳版](https://github.com/techtouch-inc/Go-SCP-jaJP)
 
 ## API
 
