@@ -6,6 +6,10 @@
 * [セキュリティ定性メトリクス](https://coky-t.gitbook.io/owasp-sqm-ja/)
 * [ウェブアプリケーションに対する自動化された脅威](https://coky-t.gitbook.io/owasp-automated-threats-to-web-applications-ja/)
 
+## API
+
+* [API Security Top 10](https://coky-t.gitbook.io/owasp-api-security-ja/)
+
 ## クラウド
 
 * [クラウドネイティブアプリケーションセキュリティ Top 10](https://coky-t.gitbook.io/owasp-cloud-native-application-security-top-10-ja/)
