@@ -88,3 +88,7 @@
 ### OWASP SAMM
 
 * [OWASP ソフトウエアセキュリティ保証成熟度モデル - JPCERT翻訳版](https://www.jpcert.or.jp/securecoding_materials.html)
+
+### OWASP AI Security and Privacy Guide
+
+* [OWASP AI Security and Privacy Guide - prt445翻訳版](https://qiita.com/prt445/items/615701798f69e5d20821)
