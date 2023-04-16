@@ -54,6 +54,10 @@
 
 * Top 10 CI/CD セキュリティリスク [gitbook](https://coky-t.gitbook.io/owasp-top-10-ci-cd-security-risks-ja/), [github](https://github.com/coky-t/owasp-top-10-ci-cd-security-risks-ja/)
 
+## AI
+
+* 機械学習セキュリティ Top 10 [gitbook](https://coky-t.gitbook.io/owasp-machine-learning-security-top-10-ja/), [github](https://github.com/coky-t/owasp-machine-learning-security-top-10-ja/)
+
 ## その他
 
 * ソフトウェアコンポーネント検証標準 [gitbook](https://coky-t.gitbook.io/owasp-scvs-ja/), [github](https://github.com/coky-t/owasp-scvs-ja/)
