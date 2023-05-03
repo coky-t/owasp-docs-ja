@@ -57,6 +57,7 @@
 ## AI
 
 * 機械学習セキュリティ Top 10 [gitbook](https://coky-t.gitbook.io/owasp-machine-learning-security-top-10-ja/), [github](https://github.com/coky-t/owasp-machine-learning-security-top-10-ja/)
+* AI セキュリティおよびプライバシーガイド [gitbook](https://coky-t.gitbook.io/owasp-ai-security-and-privacy-guide-ja/), [github](https://github.com/coky-t/owasp-ai-security-and-privacy-guide-ja/)
 
 ## その他
 
