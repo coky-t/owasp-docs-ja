@@ -66,7 +66,7 @@
 
 ## データ
 
-* データセキュリティ Top 10 [github](https://github.com/coky-t/owasp-data-security-top-10-ja/)
+* データセキュリティ Top 10 [gitbook](https://coky-t.gitbook.io/owasp-data-security-top-10-ja/), [github](https://github.com/coky-t/owasp-data-security-top-10-ja/)
 
 ## その他
 
