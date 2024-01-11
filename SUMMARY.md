@@ -34,6 +34,7 @@
 
 * [Internet of Things Top 10 2018](https://coky-t.gitbook.io/owasp-iot-top10-2018-ja/)
 * [IoT セキュリティ検証標準](https://coky-t.gitbook.io/owasp-isvs-ja/)
+* [IoT セキュリティテストガイド](https://coky-t.gitbook.io/owasp-istg-ja/)
 * [ファームウェアセキュリティテスト手法](https://coky-t.gitbook.io/owasp-fstm-ja/)
 * [組込みアプリケーションセキュリティベストプラクティス](https://coky-t.gitbook.io/embeddedappsec-ja/)
 
