@@ -79,3 +79,4 @@
 * 脅威モデリングプレイブック [gitbook](https://coky-t.gitbook.io/owasp-threat-modeling-playbook-ja/), [github](https://github.com/coky-t/owasp-threat-modeling-playbook-ja/)
 * Top 10 内部脅威 2023 [gitbook](https://coky-t.gitbook.io/owasp-top-10-insider-threats-ja/), [github](https://github.com/coky-t/owasp-top-10-insider-threats-ja/)
 * プロダクトセキュリティガイド [gitbook](https://coky-t.gitbook.io/owasp-product-security-guide-ja/), [github](https://github.com/coky-t/owasp-product-security-guide-ja/)
+* セキュリティチャンピオンガイド [github](https://github.com/coky-t/owasp-security-champions-guidebook-ja/)
