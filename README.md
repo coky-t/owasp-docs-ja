@@ -70,9 +70,13 @@
 
 * データセキュリティ Top 10 [gitbook](https://coky-t.gitbook.io/owasp-data-security-top-10-ja/), [github](https://github.com/coky-t/owasp-data-security-top-10-ja/)
 
+## ソフトウェアコンポーネント
+
+* オープンソースソフトウェア Top 10 [gitbook](https://coky-t.gitbook.io/owasp-open-source-software-top-10-ja/), [github](https://github.com/coky-t/owasp-open-source-software-top-10-ja/)
+* ソフトウェアコンポーネント検証標準 [gitbook](https://coky-t.gitbook.io/owasp-scvs-ja/), [github](https://github.com/coky-t/owasp-scvs-ja/)
+
 ## その他
 
-* ソフトウェアコンポーネント検証標準 [gitbook](https://coky-t.gitbook.io/owasp-scvs-ja/), [github](https://github.com/coky-t/owasp-scvs-ja/)
 * 脅威とセーフガードのマトリクス (TaSM) [gitbook](https://coky-t.gitbook.io/owasp-threat-and-safeguard-matrix-ja/), [github](https://github.com/coky-t/owasp-threat-and-safeguard-matrix-ja/)
 * サイバーコントロールマトリクス (OCCM) [github](https://github.com/coky-t/owasp-cyber-controls-matrix-ja/)
 * サイバーディフェンスマトリクス [github](https://github.com/coky-t/owasp-cyber-defense-matrix-ja/)

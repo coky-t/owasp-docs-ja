@@ -70,9 +70,13 @@
 
 * [データセキュリティ Top 10](https://coky-t.gitbook.io/owasp-data-security-top-10-ja/)
 
+## ソフトウェアコンポーネント
+
+* [オープンソースソフトウェア Top 10](https://coky-t.gitbook.io/owasp-open-source-software-top-10-ja/)
+* [ソフトウェアコンポーネント検証標準](https://coky-t.gitbook.io/owasp-scvs-ja/)
+
 ## その他
 
-* [ソフトウェアコンポーネント検証標準](https://coky-t.gitbook.io/owasp-scvs-ja/)
 * [脅威とセーフガードのマトリクス (TaSM)](https://coky-t.gitbook.io/owasp-threat-and-safeguard-matrix-ja/)
 * [脅威モデリングプレイブック](https://coky-t.gitbook.io/owasp-threat-modeling-playbook-ja/)
 * [Top 10 内部脅威 2023](https://coky-t.gitbook.io/owasp-top-10-insider-threats-ja/)
