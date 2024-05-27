@@ -20,6 +20,10 @@
 * コンテナセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-csvs-ja/), [github](https://github.com/coky-t/owasp-csvs-ja/)
 * Kubernetes Top 10 [gitbook](https://coky-t.gitbook.io/owasp-kubernetes-top-ten-ja/), [github](https://github.com/coky-t/owasp-kubernetes-top-ten-ja/)
 
+## シッククライアント
+
+* シッククライアントアプリケーションセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-thick-client-asvs-ja/), [github](https://github.com/coky-t/owasp-thick-client-application-security-verification-standard-ja/)
+
 ## デスクトップ
 
 * デスクトップアプリセキュリティ Top 10 [gitbook](https://coky-t.gitbook.io/owasp-desktop-app-security-top-10-ja/), [github](https://github.com/coky-t/owasp-desktop-app-security-top-10-ja/)
