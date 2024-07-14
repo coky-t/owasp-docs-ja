@@ -5,6 +5,7 @@
 * アプリケーションセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-asvs-ja/), [github](https://github.com/coky-t/owasp-asvs-ja/)
 * セキュリティ定性メトリクス [gitbook](https://coky-t.gitbook.io/owasp-sqm-ja/), [github](https://github.com/coky-t/owasp-sqm-ja/)
 * ウェブアプリケーションに対する自動化された脅威 [gitbook](https://coky-t.gitbook.io/owasp-automated-threats-to-web-applications-ja/), [github](https://github.com/coky-t/owasp-automated-threats-to-web-applications-ja/)
+* プロアクティブコントロール [gitbook](https://coky-t.gitbook.io/owasp-proactive-controls-ja/), [github](https://github.com/coky-t/owasp-proactive-controls-ja)
 
 ## API
 
