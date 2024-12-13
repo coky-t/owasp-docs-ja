@@ -70,7 +70,7 @@
 ## スマートコントラクト
 
 * スマートコントラクト Top 10 [gitbook](https://coky-t.gitbook.io/owasp-smart-contract-top-10-ja/), [github](https://github.com/coky-t/owasp-smart-contract-top-10-ja/)
-* スマートコントラクトセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-scsvs-ja/), [github](https://github.com/coky-t/owasp-smart-contract-security-verification-standard-ja/)
+* スマートコントラクトセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-scsvs-ja/), [github](https://github.com/coky-t/owasp-scsvs-ja/)
 
 ## データ
 
