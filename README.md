@@ -92,3 +92,4 @@
 * プロダクトセキュリティガイド [gitbook](https://coky-t.gitbook.io/owasp-product-security-guide-ja/), [github](https://github.com/coky-t/owasp-product-security-guide-ja/)
 * セキュリティチャンピオンガイド [gitbook](https://coky-t.gitbook.io/owasp-security-champions-guidebook-ja/), [github](https://github.com/coky-t/owasp-security-champions-guidebook-ja/)
 * Top 10 ドローンセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-drone-security-risks-ja/)
+* 非人間アイデンティティ Top 10 [gitbook](https://coky-t.gitbook.io/owasp-non-human-identities-top-10-ja/), [github](https://github.com/coky-t/owasp-non-human-identities-top-10-ja/)
