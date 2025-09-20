@@ -68,6 +68,7 @@
 * [OWASP Top 10 大規模言語モデルアプリケーション](https://coky-t.gitbook.io/owasp-top-10-for-large-language-model-applications/)
 * [AI セキュリティおよびプライバシーガイド](https://coky-t.gitbook.io/owasp-ai-security-and-privacy-guide-ja/)
 * [大規模言語モデルセキュリティ検証標準](https://coky-t.gitbook.io/owasp-llm-verification-standard-ja/)
+* [人工知能セキュリティ検証標準](https://coky-t.gitbook.io/owasp-aisvs-ja/)
 
 ## スマートコントラクト
 
