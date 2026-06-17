@@ -23,7 +23,7 @@
 
 ## シッククライアント
 
-* シッククライアントアプリケーションセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-thick-client-asvs-ja/), [github](https://github.com/coky-t/owasp-thick-client-application-security-verification-standard-ja/)
+* シッククライアントアプリケーションセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-tcasvs-ja/), [github](https://github.com/coky-t/owasp-tcasvs-ja/)
 
 ## デスクトップ
 
