@@ -55,7 +55,6 @@
 
 ## DevSecOps
 
-* [DevSecOps ガイドライン](https://coky-t.gitbook.io/owasp-devsecops-guideline-ja/)
 * [DevSecOps 検証標準](https://coky-t.gitbook.io/owasp-devsecops-verification-standard-ja/)
 
 ## CI/CD
