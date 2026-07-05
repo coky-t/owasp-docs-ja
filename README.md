@@ -64,7 +64,7 @@
 
 * 機械学習セキュリティ Top 10 [gitbook](https://coky-t.gitbook.io/owasp-machine-learning-security-top-10-ja/), [github](https://github.com/coky-t/owasp-machine-learning-security-top-10-ja/)
 * OWASP Top 10 大規模言語モデルアプリケーション [gitbook](https://coky-t.gitbook.io/owasp-top-10-for-large-language-model-applications/), [github](https://github.com/coky-t/owasp-top-10-for-large-language-model-applications-ja/)
-* AI セキュリティおよびプライバシーガイド [gitbook](https://coky-t.gitbook.io/owasp-ai-security-and-privacy-guide-ja/), [github](https://github.com/coky-t/owasp-ai-security-and-privacy-guide-ja/)
+* AI セキュリティおよびプライバシーガイド [github](https://github.com/coky-t/owasp-ai-security-and-privacy-guide-ja/)
 * 大規模言語モデルセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-llm-verification-standard-ja/), [github](https://github.com/coky-t/owasp-llm-verification-standard-ja/)
 * 人工知能セキュリティ検証標準 [github](https://github.com/coky-t/owasp-aisvs-ja/)
 
