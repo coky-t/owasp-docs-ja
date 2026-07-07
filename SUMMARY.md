@@ -21,7 +21,6 @@
 
 * [Docker Top 10](https://coky-t.gitbook.io/owasp-docker-security-ja/)
 * [コンテナセキュリティ検証標準](https://coky-t.gitbook.io/owasp-csvs-ja/)
-* [Kubernetes Top 10](https://coky-t.gitbook.io/owasp-kubernetes-top-ten-ja/)
 
 ## デスクトップ
 
