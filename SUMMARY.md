@@ -45,10 +45,6 @@
 
 * [Top 10 クライアントサイドセキュリティリスク](https://coky-t.gitbook.io/owasp-top-10-client-side-security-risks-ja/)
 
-## DevSecOps
-
-* [DevSecOps 検証標準](https://coky-t.gitbook.io/owasp-devsecops-verification-standard-ja/)
-
 ## CI/CD
 
 * [Top 10 CI/CD セキュリティリスク](https://coky-t.gitbook.io/owasp-top-10-ci-cd-security-risks-ja/)
