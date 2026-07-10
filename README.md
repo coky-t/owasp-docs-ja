@@ -32,7 +32,7 @@
 ## モバイル
 
 * モバイル Top 10 [github](https://github.com/coky-t/owasp-mobile-top10-ja/)
-* モバイルアプリケーションセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-masvs-ja/), [github](https://github.com/coky-t/owasp-masvs-ja/)
+* モバイルアプリケーションセキュリティ検証標準 [github](https://github.com/coky-t/owasp-masvs-ja/)
 * モバイルアプリケーションセキュリティテストガイド [github](https://github.com/coky-t/owasp-mastg-ja/)
 
 ## 組み込み/IoT
