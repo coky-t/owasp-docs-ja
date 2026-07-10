@@ -4,7 +4,6 @@
 
 ## 組み込み/IoT
 
-* [ファームウェアセキュリティテスト手法](https://coky-t.gitbook.io/owasp-fstm-ja/)
 * [組込みアプリケーションセキュリティベストプラクティス](https://coky-t.gitbook.io/embeddedappsec-ja/)
 
 ## ローコード/ノーコード
