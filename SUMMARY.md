@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## ウェブ
-
-* [プロアクティブコントロール](https://coky-t.gitbook.io/owasp-proactive-controls-ja/)
-
 ## API
 
 * [API Security Top 10](https://coky-t.gitbook.io/owasp-api-security-ja/)
