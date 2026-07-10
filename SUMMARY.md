@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## クラウド
-
-* [クラウドネイティブアプリケーションセキュリティ Top 10](https://coky-t.gitbook.io/owasp-cloud-native-application-security-top-10-ja/)
-
 ## コンテナ
 
 * [Docker Top 10](https://coky-t.gitbook.io/owasp-docker-security-ja/)
