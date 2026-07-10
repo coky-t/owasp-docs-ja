@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## 組み込み/IoT
-
-* [組込みアプリケーションセキュリティベストプラクティス](https://coky-t.gitbook.io/embeddedappsec-ja/)
-
 ## ローコード/ノーコード
 
 * [Top 10 ローコード/ノーコードセキュリティリスク](https://coky-t.gitbook.io/owasp-top-10-low-code-no-code-security-risks-ja/)

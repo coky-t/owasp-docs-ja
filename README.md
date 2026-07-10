@@ -41,7 +41,7 @@
 * IoT セキュリティ検証標準 [github](https://github.com/coky-t/owasp-isvs-ja/)
 * IoT セキュリティテストガイド [github](https://github.com/coky-t/owasp-istg-ja/)
 * ファームウェアセキュリティテスト手法 [github](https://github.com/coky-t/owasp-fstm-ja/)
-* 組込みアプリケーションセキュリティベストプラクティス [gitbook](https://coky-t.gitbook.io/embeddedappsec-ja/), [github](https://github.com/coky-t/embeddedappsec-ja/)
+* 組込みアプリケーションセキュリティベストプラクティス [github](https://github.com/coky-t/embeddedappsec-ja/)
 
 ## ローコード/ノーコード
 
