@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## クライアントサイド
-
-* [Top 10 クライアントサイドセキュリティリスク](https://coky-t.gitbook.io/owasp-top-10-client-side-security-risks-ja/)
-
 ## CI/CD
 
 * [Top 10 CI/CD セキュリティリスク](https://coky-t.gitbook.io/owasp-top-10-ci-cd-security-risks-ja/)
