@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## データ
-
-* [データセキュリティ Top 10](https://coky-t.gitbook.io/owasp-data-security-top-10-ja/)
-
 ## ソフトウェアコンポーネント
 
 * [オープンソースソフトウェア Top 10](https://coky-t.gitbook.io/owasp-open-source-software-top-10-ja/)
