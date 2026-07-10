@@ -90,7 +90,7 @@
 * サイバーディフェンスマトリクス [github](https://github.com/coky-t/owasp-cyber-defense-matrix-ja/)
 * 脅威モデリングプレイブック [github](https://github.com/coky-t/owasp-threat-modeling-playbook-ja/)
 * Top 10 内部脅威 [github](https://github.com/coky-t/owasp-top-10-insider-threats-ja/)
-* Top 10 インフラストラクチャセキュリティリスク [gitbook](https://coky-t.gitbook.io/owasp-top-10-infrastructure-security-risks-ja/), [github](https://github.com/coky-t/owasp-top-10-infrastructure-security-risks-ja/)
+* Top 10 インフラストラクチャセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-infrastructure-security-risks-ja/)
 * プロダクトセキュリティガイド [gitbook](https://coky-t.gitbook.io/owasp-product-security-guide-ja/), [github](https://github.com/coky-t/owasp-product-security-guide-ja/)
 * セキュリティチャンピオンガイド [gitbook](https://coky-t.gitbook.io/owasp-security-champions-guidebook-ja/), [github](https://github.com/coky-t/owasp-security-champions-guidebook-ja/)
 * Top 10 ドローンセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-drone-security-risks-ja/)
