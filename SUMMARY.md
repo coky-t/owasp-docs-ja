@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## デスクトップ
-
-* [デスクトップアプリセキュリティ Top 10](https://coky-t.gitbook.io/owasp-desktop-app-security-top-10-ja/)
-
 ## モバイル
 
 * [モバイル Top 10 2016](https://coky-t.gitbook.io/owasp-mobile-top10-2016-ja/)
