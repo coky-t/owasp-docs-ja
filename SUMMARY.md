@@ -4,7 +4,6 @@
 
 ## 組み込み/IoT
 
-* [Internet of Things Top 10 2018](https://coky-t.gitbook.io/owasp-iot-top10-2018-ja/)
 * [ファームウェアセキュリティテスト手法](https://coky-t.gitbook.io/owasp-fstm-ja/)
 * [組込みアプリケーションセキュリティベストプラクティス](https://coky-t.gitbook.io/embeddedappsec-ja/)
 
