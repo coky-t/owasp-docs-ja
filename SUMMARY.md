@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## ソフトウェアコンポーネント
-
-* [ソフトウェアコンポーネント検証標準](https://coky-t.gitbook.io/owasp-scvs-ja/)
-
 ## その他
 
 * [脅威とセーフガードのマトリクス (TaSM)](https://coky-t.gitbook.io/owasp-threat-and-safeguard-matrix-ja/)
