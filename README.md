@@ -58,7 +58,7 @@
 
 ## CI/CD
 
-* Top 10 CI/CD セキュリティリスク [gitbook](https://coky-t.gitbook.io/owasp-top-10-ci-cd-security-risks-ja/), [github](https://github.com/coky-t/owasp-top-10-ci-cd-security-risks-ja/)
+* Top 10 CI/CD セキュリティリスク [github](https://github.com/coky-t/owasp-top-10-ci-cd-security-risks-ja/)
 
 ## AI
 
