@@ -4,7 +4,6 @@
 
 ## スマートコントラクト
 
-* [スマートコントラクトセキュリティ検証標準](https://coky-t.gitbook.io/owasp-scsvs-ja/)
 * [スマートコントラクトセキュリティテストガイド](https://coky-t.gitbook.io/owasp-smart-contract-security-testing-guide-ja/)
 
 ## データ
