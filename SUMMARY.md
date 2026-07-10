@@ -4,7 +4,6 @@
 
 ## ウェブ
 
-* [ウェブアプリケーションに対する自動化された脅威](https://coky-t.gitbook.io/owasp-automated-threats-to-web-applications-ja/)
 * [プロアクティブコントロール](https://coky-t.gitbook.io/owasp-proactive-controls-ja/)
 
 ## API
