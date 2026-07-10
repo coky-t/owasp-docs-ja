@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## API
-
-* [API Security Top 10](https://coky-t.gitbook.io/owasp-api-security-ja/)
-
 ## クラウド
 
 * [クラウドネイティブアプリケーションセキュリティ Top 10](https://coky-t.gitbook.io/owasp-cloud-native-application-security-top-10-ja/)
