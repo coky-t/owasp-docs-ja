@@ -4,7 +4,6 @@
 
 ## ソフトウェアコンポーネント
 
-* [オープンソースソフトウェア Top 10](https://coky-t.gitbook.io/owasp-open-source-software-top-10-ja/)
 * [ソフトウェアコンポーネント検証標準](https://coky-t.gitbook.io/owasp-scvs-ja/)
 
 ## その他
