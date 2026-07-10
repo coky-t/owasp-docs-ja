@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## AI
-
-* [OWASP Top 10 大規模言語モデルアプリケーション](https://coky-t.gitbook.io/owasp-top-10-for-large-language-model-applications/)
-
 ## スマートコントラクト
 
 * [スマートコントラクトセキュリティ検証標準](https://coky-t.gitbook.io/owasp-scsvs-ja/)
