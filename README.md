@@ -45,7 +45,7 @@
 
 ## ローコード/ノーコード
 
-* ローコード/ノーコード Top 10 [gitbook](https://coky-t.gitbook.io/owasp-top-10-low-code-no-code-security-risks-ja/), [github](https://github.com/coky-t/owasp-top-10-low-code-no-code-security-risks-ja/)
+* ローコード/ノーコード Top 10 [github](https://github.com/coky-t/owasp-top-10-low-code-no-code-security-risks-ja/)
 
 ## クライアントサイド
 

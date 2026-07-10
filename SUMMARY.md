@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## ローコード/ノーコード
-
-* [Top 10 ローコード/ノーコードセキュリティリスク](https://coky-t.gitbook.io/owasp-top-10-low-code-no-code-security-risks-ja/)
-
 ## クライアントサイド
 
 * [Top 10 クライアントサイドセキュリティリスク](https://coky-t.gitbook.io/owasp-top-10-client-side-security-risks-ja/)
