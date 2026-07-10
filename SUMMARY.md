@@ -2,10 +2,6 @@
 
 * [OWASP ドキュメント 日本語版](README.md)
 
-## スマートコントラクト
-
-* [スマートコントラクトセキュリティテストガイド](https://coky-t.gitbook.io/owasp-smart-contract-security-testing-guide-ja/)
-
 ## データ
 
 * [データセキュリティ Top 10](https://coky-t.gitbook.io/owasp-data-security-top-10-ja/)
