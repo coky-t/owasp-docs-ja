@@ -1,97 +1,35 @@
-# OWASP ドキュメント 日本語版
+# OWASP Security Qualitative Metrics ja
 
-## ウェブ
+This is the unofficial Japanese translation of the [OWASP Security Qualitative Metrics](https://github.com/OWASP/www-project-security-qualitative-metrics).
 
-* アプリケーションセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-asvs-ja/), [github](https://github.com/coky-t/owasp-asvs-ja/)
-* セキュリティ定性メトリクス [github](https://github.com/coky-t/owasp-sqm-ja/)
-* ウェブアプリケーションに対する自動化された脅威 [github](https://github.com/coky-t/owasp-automated-threats-to-web-applications-ja/)
-* プロアクティブコントロール [github](https://github.com/coky-t/owasp-proactive-controls-ja)
+- Document Site - <https://coky-t.gitbook.io/owasp-sqm-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-sqm-ja>
 
-## API
+### Originator
 
-* API Security Top 10 [github](https://github.com/coky-t/owasp-api-security-ja/)
+- Project Site - <https://web.archive.org/web/20220815090634/https://owasp.org/www-project-security-qualitative-metrics/>
+- Project Repository - <https://github.com/OWASP/www-project-security-qualitative-metrics>
 
-## クラウド
+## OWASP セキュリティ定性メトリクス 日本語版
 
-* クラウドネイティブアプリケーションセキュリティ Top 10 [github](https://github.com/coky-t/owasp-cloud-native-application-security-top-10-ja/)
+- [OWASP セキュリティ定性メトリクス](Document/index.md)
+- [メトリクス](Document/SECURITY-QUALITATIVE-METRICS.md)
+- [方法論と背景](Document/METHODOLOGY-AND-BACKGROUND.md)
+- [FAQ](Document/FAQ.md)
+- [寄稿](Document/CONTRIBUTING.md)
+- [参考情報](Document/REFERENCES.md)
 
-## コンテナ
+## 参考情報
 
-* Docker Top 10 [github](https://github.com/coky-t/owasp-docker-security-ja/)
-* コンテナセキュリティ検証標準 [github](https://github.com/coky-t/owasp-csvs-ja/)
-* Kubernetes Top 10 [github](https://github.com/coky-t/owasp-kubernetes-top-ten-ja/)
+- [OWASPアプリケーションセキュリティ検証標準 3.0.1 JPCERT/CC 翻訳版](https://www.jpcert.or.jp/securecoding/materials-owaspasvs.html)
 
-## シッククライアント
+## License
 
-* シッククライアントアプリケーションセキュリティ検証標準 [github](https://github.com/coky-t/owasp-tcasvs-ja/)
+[MIT License](https://opensource.org/licenses/MIT)
 
-## デスクトップ
+## Translator (Japanese)
 
-* デスクトップアプリセキュリティ Top 10 [github](https://github.com/coky-t/owasp-desktop-app-security-top-10-ja/)
+[Koki Takeyama](https://github.com/coky-t)
 
-## モバイル
-
-* モバイル Top 10 [github](https://github.com/coky-t/owasp-mobile-top10-ja/)
-* モバイルアプリケーションセキュリティ検証標準 [github](https://github.com/coky-t/owasp-masvs-ja/)
-* モバイルアプリケーションセキュリティテストガイド [github](https://github.com/coky-t/owasp-mastg-ja/)
-
-## 組み込み/IoT
-
-* Internet of Things Top 10 2018 [github](https://github.com/coky-t/owasp-iot-top10-2018-ja/)
-* IoT セキュリティ検証標準 [github](https://github.com/coky-t/owasp-isvs-ja/)
-* IoT セキュリティテストガイド [github](https://github.com/coky-t/owasp-istg-ja/)
-* ファームウェアセキュリティテスト手法 [github](https://github.com/coky-t/owasp-fstm-ja/)
-* 組込みアプリケーションセキュリティベストプラクティス [github](https://github.com/coky-t/embeddedappsec-ja/)
-
-## ローコード/ノーコード
-
-* ローコード/ノーコード Top 10 [github](https://github.com/coky-t/owasp-top-10-low-code-no-code-security-risks-ja/)
-
-## クライアントサイド
-
-* Top 10 クライアントサイドセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-client-side-security-risks-ja/)
-
-## DevSecOps
-
-* DevSecOps ガイドライン [github](https://github.com/coky-t/owasp-devsecops-guideline-ja/)
-* DevSecOps 検証標準 [github](https://github.com/coky-t/owasp-devsecops-verification-standard-ja/)
-
-## CI/CD
-
-* Top 10 CI/CD セキュリティリスク [github](https://github.com/coky-t/owasp-top-10-ci-cd-security-risks-ja/)
-
-## AI
-
-* 機械学習セキュリティ Top 10 [github](https://github.com/coky-t/owasp-machine-learning-security-top-10-ja/)
-* OWASP Top 10 大規模言語モデルアプリケーション [github](https://github.com/coky-t/owasp-top-10-for-large-language-model-applications-ja/)
-* AI セキュリティおよびプライバシーガイド [github](https://github.com/coky-t/owasp-ai-security-and-privacy-guide-ja/)
-* 大規模言語モデルセキュリティ検証標準 [github](https://github.com/coky-t/owasp-llm-verification-standard-ja/)
-* 人工知能セキュリティ検証標準 [github](https://github.com/coky-t/owasp-aisvs-ja/)
-
-## スマートコントラクト
-
-* スマートコントラクト Top 10 [github](https://github.com/coky-t/owasp-smart-contract-top-10-ja/)
-* スマートコントラクトセキュリティ検証標準 [github](https://github.com/coky-t/owasp-scsvs-ja/)
-* スマートコントラクトセキュリティテストガイド [github](https://github.com/coky-t/owasp-smart-contract-security-testing-guide-ja/)
-
-## データ
-
-* データセキュリティ Top 10 [github](https://github.com/coky-t/owasp-data-security-top-10-ja/)
-
-## ソフトウェアコンポーネント
-
-* オープンソースソフトウェア Top 10 [github](https://github.com/coky-t/owasp-open-source-software-top-10-ja/)
-* ソフトウェアコンポーネント検証標準 [github](https://github.com/coky-t/owasp-scvs-ja/)
-
-## その他
-
-* 脅威とセーフガードのマトリクス (TaSM) [github](https://github.com/coky-t/owasp-threat-and-safeguard-matrix-ja/)
-* サイバーコントロールマトリクス (OCCM) [github](https://github.com/coky-t/owasp-cyber-controls-matrix-ja/)
-* サイバーディフェンスマトリクス [github](https://github.com/coky-t/owasp-cyber-defense-matrix-ja/)
-* 脅威モデリングプレイブック [github](https://github.com/coky-t/owasp-threat-modeling-playbook-ja/)
-* Top 10 内部脅威 [github](https://github.com/coky-t/owasp-top-10-insider-threats-ja/)
-* Top 10 インフラストラクチャセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-infrastructure-security-risks-ja/)
-* プロダクトセキュリティガイド [github](https://github.com/coky-t/owasp-product-security-guide-ja/)
-* セキュリティチャンピオンガイド [github](https://github.com/coky-t/owasp-security-champions-guidebook-ja/)
-* Top 10 ドローンセキュリティリスク [github](https://github.com/coky-t/owasp-top-10-drone-security-risks-ja/)
-* 非人間アイデンティティ Top 10 [github](https://github.com/coky-t/owasp-non-human-identities-top-10-ja/)
+- Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-docs-ja>
