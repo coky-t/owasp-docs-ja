@@ -2,7 +2,7 @@
 
 ## ウェブ
 
-* アプリケーションセキュリティ検証標準 [github](https://github.com/coky-t/owasp-asvs-ja/)
+* アプリケーションセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-asvs-ja/), [github](https://github.com/coky-t/owasp-asvs-ja/)
 * セキュリティ定性メトリクス [github](https://github.com/coky-t/owasp-sqm-ja/)
 * ウェブアプリケーションに対する自動化された脅威 [github](https://github.com/coky-t/owasp-automated-threats-to-web-applications-ja/)
 * プロアクティブコントロール [github](https://github.com/coky-t/owasp-proactive-controls-ja)
