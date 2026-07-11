@@ -1,12 +1,9 @@
-# OWASP Security Qualitative Metrics ja
+# 一覧
 
-- [OWASP Security Qualitative Metrics ja](README.md)
+* [OWASP ドキュメント 日本語版](README.md)
 
-## OWASP セキュリティ定性メトリクス 日本語版
+## ウェブ
 
-- [OWASP セキュリティ定性メトリクス](Document/index.md)
-- [メトリクス](Document/SECURITY-QUALITATIVE-METRICS.md)
-- [方法論と背景](Document/METHODOLOGY-AND-BACKGROUND.md)
-- [FAQ](Document/FAQ.md)
-- [寄稿](Document/CONTRIBUTING.md)
-- [参考情報](Document/REFERENCES.md)
+* [アプリケーションセキュリティ検証標準](https://coky-t.gitbook.io/owasp-asvs-ja/)
+* [セキュリティ定性メトリクス](https://coky-t.gitbook.io/owasp-sqm-ja/)
+* [プロアクティブコントロール](https://coky-t.gitbook.io/owasp-proactive-controls-ja/)
