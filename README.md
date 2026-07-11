@@ -9,7 +9,7 @@
 
 ## API
 
-* API Security Top 10 [github](https://github.com/coky-t/owasp-api-security-ja/)
+* API Security Top 10 [gitbook](https://coky-t.gitbook.io/owasp-api-security-ja/), [github](https://github.com/coky-t/owasp-api-security-ja/)
 
 ## クラウド
 
