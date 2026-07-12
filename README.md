@@ -2,23 +2,23 @@
 
 ## ウェブ
 
-* アプリケーションセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-asvs-ja/), [github](https://github.com/coky-t/owasp-asvs-ja/)
-* セキュリティ定性メトリクス [gitbook](https://coky-t.gitbook.io/owasp-sqm-ja/), [github](https://github.com/coky-t/owasp-sqm-ja/)
+* アプリケーションセキュリティ検証標準 [github](https://github.com/coky-t/owasp-asvs-ja/)
+* セキュリティ定性メトリクス [github](https://github.com/coky-t/owasp-sqm-ja/)
 * ウェブアプリケーションに対する自動化された脅威 [github](https://github.com/coky-t/owasp-automated-threats-to-web-applications-ja/)
-* プロアクティブコントロール [gitbook](https://coky-t.gitbook.io/owasp-proactive-controls-ja/), [github](https://github.com/coky-t/owasp-proactive-controls-ja/)
+* プロアクティブコントロール [github](https://github.com/coky-t/owasp-proactive-controls-ja/)
 
 ## API
 
-* API Security Top 10 [gitbook](https://coky-t.gitbook.io/owasp-api-security-ja/), [github](https://github.com/coky-t/owasp-api-security-ja/)
+* API Security Top 10 [github](https://github.com/coky-t/owasp-api-security-ja/)
 
 ## クラウド
 
-* クラウドネイティブアプリケーションセキュリティ Top 10 [gitbook](https://coky-t.gitbook.io/owasp-cloud-native-application-security-top-10-ja/), [github](https://github.com/coky-t/owasp-cloud-native-application-security-top-10-ja/)
+* クラウドネイティブアプリケーションセキュリティ Top 10 [github](https://github.com/coky-t/owasp-cloud-native-application-security-top-10-ja/)
 
 ## コンテナ
 
-* Docker Top 10 [gitbook](https://coky-t.gitbook.io/owasp-docker-security-ja/), [github](https://github.com/coky-t/owasp-docker-security-ja/)
-* コンテナセキュリティ検証標準 [gitbook](https://coky-t.gitbook.io/owasp-csvs-ja/), [github](https://github.com/coky-t/owasp-csvs-ja/)
+* Docker Top 10 [github](https://github.com/coky-t/owasp-docker-security-ja/)
+* コンテナセキュリティ検証標準 [github](https://github.com/coky-t/owasp-csvs-ja/)
 * Kubernetes Top 10 [github](https://github.com/coky-t/owasp-kubernetes-top-ten-ja/)
 
 ## シッククライアント
